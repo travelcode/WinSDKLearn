@@ -1,0 +1,6 @@
+LIBRARY  CPPDll
+EXPORTS  
+
+DllAdd @1
+DllSub @2
+DllMul @3
